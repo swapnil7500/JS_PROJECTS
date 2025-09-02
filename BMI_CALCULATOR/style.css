@@ -1,9 +1,13 @@
 .container {
   width: 575px;
-  height: 825px;
+  height: 100%;
 
   background-color: #797978;
-  padding-left: 30px;
+  padding-left: 250px;
+  padding-bottom: 4px;
+  /* padding-right: 30px; */
+  margin: auto;
+ 
 }
 #height,
 #weight {
