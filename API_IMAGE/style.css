@@ -1,0 +1,26 @@
+#hitesh{
+    border: 2px solid black;
+    height: 100px;
+    width: max-content;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color: rgb(63, 63, 53);
+}
+.button{
+    background-color: burlywood;
+    border: 2px solid rgb(24, 22, 22);
+    border-radius: 2px;
+    cursor: pointer;
+     display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: auto;
+    padding: auto;
+
+}
+.button:hover {
+    background-color: #45a049;  
+}
